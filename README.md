@@ -13,5 +13,8 @@ This repository contains the foundational relational database design, seed scrip
 ├── seed.sql            # DML script for inserting sample data
 └── queries.sql         # Sample analytical SQL queries
 
---- ERD 
-![alt text](erd-diagram.png)
+---
+
+## ERD Diagram
+
+![ERD Diagram](erd-diagram.png)
