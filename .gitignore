@@ -1,0 +1,8 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Database files / DBeaver / pgAdmin temporary files
+*.log
+*.sqlite
+.dbeaver/
